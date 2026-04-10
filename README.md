@@ -1,4 +1,5 @@
 # 📊 Astrosage Call Center Analysis
+![Dashboard](dashboard.png)
 
 ## 🔍 Project Overview
 This project analyzes the call center operations of AstroSage, focusing on improving efficiency, customer satisfaction, and revenue using data-driven insights.
